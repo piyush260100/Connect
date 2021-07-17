@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "63353884991",
+    "project_id": "connect-c21ed",
+    "storage_bucket": "connect-c21ed.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:63353884991:android:f64daa543bc8bd520bc38a",
+        "android_client_info": {
+          "package_name": "com.example.connect"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "63353884991-dfmrrvv8lefq3asg775njkr500ailu0e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCWUxAJX8W5nX5pRKO3GnlpgUu9S-GrZzM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "63353884991-dfmrrvv8lefq3asg775njkr500ailu0e.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

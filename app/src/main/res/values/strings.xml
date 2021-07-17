@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Connect</string>
+    <string name="Username">Username</string>
+    <string name="Email">Email</string>
+    <string name="Password">Password</string>
+    <string name="SIGNUP">SIGN UP</string>
+    <string name="Facebook">Facebook</string>
+    <string name="connect_logo">connect_logo</string>
+    <string name="already">Already have an Account</string>
+    <string name="SignUpwithPhone">Sign Up with Phone</string>
+    <string name="click_for_Sign_Up">click for Sign Up</string>
+    <string name="SIGN_IN">SIGN IN</string>
+    <string name="Google">Google</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="Enteryourmessage">Enter your message</string>
+    <string name="PrivacyPolicy">Privacy Policy</string>
+    <string name="Aboutus">About us</string>
+    <string name="InviteaFriend">Invite a Friend</string>
+    <string name="Notification">Notification</string>
+    <string name="Help">Help</string>
+</resources>
